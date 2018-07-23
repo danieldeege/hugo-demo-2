@@ -1,6 +1,8 @@
 +++
 date = "2018-07-23T07:37:03+00:00"
 title = "Homepage"
+[menu.icon]
+weight = 6
 
 +++
 Morbi rutrum suscipit finibus. Donec id massa a sem mattis volutpat sit amet sed magna. Phasellus vitae iaculis tortor. Quisque in eleifend tortor, sit amet luctus nibh. Nulla aliquam odio consequat dolor mattis, in iaculis diam sagittis. Vivamus quis diam elementum, commodo sapien id, commodo sapien. Cras eget enim sapien. Etiam pellentesque rutrum ipsum a lobortis. Suspendisse gravida fermentum magna in cursus. Praesent laoreet at eros a mollis. Proin mattis a magna non bibendum. Praesent ut consectetur tellus, quis rutrum ex. Vivamus consequat varius arcu, quis vehicula enim. Morbi metus enim, hendrerit eu lacinia in, pellentesque dictum turpis.
