@@ -1,0 +1,12 @@
+---
+label: Page templae
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  default: Pagetitle
+pages:
+- content/contact.md
+- content/homepage.md
