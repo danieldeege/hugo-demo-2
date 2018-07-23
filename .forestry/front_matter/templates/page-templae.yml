@@ -7,3 +7,5 @@ fields:
   name: title
   label: Title
   default: Pagetitle
+pages:
+- content/homepage.md
