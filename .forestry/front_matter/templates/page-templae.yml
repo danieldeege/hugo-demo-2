@@ -8,5 +8,5 @@ fields:
   label: Title
   default: Pagetitle
 pages:
-- content/contact.md
 - content/homepage.md
+- content/contact.md
